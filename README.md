@@ -7,6 +7,7 @@ git clone https://github.com/caracal-js/Incognito.git
 cd Incognito
 git submodule update --init
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VitamimFUCK/Incognito
 
 # Ultraviolet
 Ultraviolet's bare server by default is set to Incognito's official bare server (https://incog.dev/bare/)
